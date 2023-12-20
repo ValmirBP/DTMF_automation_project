@@ -1,23 +1,20 @@
-# Tcc-Faculdade
-Trabalho de conclusão de curso, com o tema de Automação Residencial.
+# University Final Project
+Final course work, with the theme of Home Automation.
 
-# Descrição:
+# Description:
 
-No projeto é proposto um sistema de acionamento de dispositivos de iluminação com LED´s e uma lâmpada convencional,
-sendo controlado por um aparelho celular e circuito integrado MT8870DE (DTMF Decoder) que dará a possibilidade de controlar
-o sistema de iluminação com as teclas do celular, sendo assim, o chip possibilitará uma conduta que irá interagir com a 
-programação do dispositivo Arduino UNO com a linguagem C. A ligação elétrica será em uma Protoshield que terá uma ligação direta com o Arduino UNO e com os dispositivos de iluminação que serão os LED´s e a lâmpada.
+The project proposes a system for activating LED lighting devices and a conventional bulb, controlled by a mobile device and the MT8870DE integrated circuit (DTMF Decoder). This will allow controlling the lighting system using the phone's keys. Thus, the chip will enable a behavior that interacts with the programming of the Arduino UNO device using the C language. The electrical connection will be on a Protoshield, which will have a direct connection with the Arduino UNO and the lighting devices, which will be the LEDs and the bulb.
 
 ![ard](https://user-images.githubusercontent.com/48802923/68417216-bef85000-0174-11ea-8256-ca0735863889.png)
 
-Imagem 1  placa.
+Image 1 board.
 ![cir](https://user-images.githubusercontent.com/48802923/68417230-c61f5e00-0174-11ea-9ad6-96c27bf0ee8f.png)
 
-Imagem 2 ligação do circuito de automação 
+Image 2 connection of the automation circuit.
 
-# Exemplo de uso:
+# Example of Use:
 
-O projeto pode ser aplicado a várias áreas de sua casa, desde um simples acionamento de uma Lâmpada até a abertura de janelas e portas e, acionamento de sistemas de segurança.
+The project can be applied to various areas of your home, from simply turning on a light bulb to opening windows and doors, and activating security systems.
 
-# Autor
-Valmir de Barros Pedro - valmir.barros57@yahoo.com.br
+# Author
+Valmir de Barros Pedro - valmirpsn@gmail.com
